@@ -89,7 +89,7 @@ This Power BI project provides an interactive analysis of the ICC Men's T20 Worl
      - Runs scored over time (overs-based line and area chart)
      - Boundary distribution (frequency by overs)
 
-**Skills and Tools Used** Power BI and using DAX Queries
+**Skills and Tools Used** Power BI and DAX Queries
 
 ---
 
