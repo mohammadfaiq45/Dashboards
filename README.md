@@ -69,6 +69,30 @@ This project analyzes credit card customer demographics and transaction details 
 
 ---
 
+### 5. 𝐈𝐂𝐂 𝐌𝐞𝐧'𝐬 𝐓𝟐𝟎 𝐖𝐨𝐫𝐥𝐝 𝐂𝐮𝐩 𝟐𝟎𝟐𝟒 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝s
+
+This Power BI project provides an interactive analysis of the ICC Men's T20 World Cup 2024, covering team performance, player insights, and match trends.
+
+1. **Tournament Overview**
+   - Key metrics: total matches played, total runs scored, total wickets taken, and total extras
+   - Map visualization of venue locations with match counts
+   - Toss decision analysis (batting vs. fielding preferences)
+
+2. **Team Analysis:**
+     - Runs scored by team across seasons
+     - Wickets taken by team (stacked column chart)
+     - Runs comparison: Powerplay (overs 1-6) vs. Death Overs (overs 16-20)
+3. **Player Analysis:**
+     - Top 10 run-scorers and wicket-takers (bar charts)
+     - Bowler economy rates (scatter plot for bowlers with 100+ balls bowled)
+4. **Match Trends:**
+     - Runs scored over time (overs-based line and area chart)
+     - Boundary distribution (frequency by overs)
+
+**Skills and Tools Used** Power BI and using DAX Queries
+
+---
+
 ## 📝 How to Use
 1. Clone this repository using the command:
    ```bash
