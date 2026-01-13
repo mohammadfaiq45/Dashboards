@@ -92,7 +92,8 @@ This project analyzes credit card customer demographics and transaction details 
 
 ---
 
-### 5. Personal Finance Dashboard
+### 5. 𝐅𝐢𝐧𝐚𝐧𝐜𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝
+
 
 This dashboard visualizes personal financial data from 2018 to 2021. It highlights income, expenses, savings, and net worth trends, enabling better financial planning and insights.
 
