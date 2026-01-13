@@ -92,7 +92,28 @@ This project analyzes credit card customer demographics and transaction details 
 
 ---
 
+### 5. Personal Finance Dashboard
 
+This dashboard visualizes personal financial data from 2018 to 2021. It highlights income, expenses, savings, and net worth trends, enabling better financial planning and insights.
+
+**Key Metrics:**
+- Total income: 1.51M  
+- Total expenses: 1.18M (78%)  
+- Total savings: 325.5K (22%)  
+- Net worth generated: 325.5K  
+- Expense breakdown by category (rent, groceries, EMIs, health, leisure, shopping)  
+- Savings distribution across mutual funds, emergency fund, fixed deposit, and liquid cash  
+
+**Visualization Highlights:**
+- Line chart for income, expense %, and savings target trends  
+- Pie chart for expense breakdown  
+- Pie chart for savings distribution  
+- Bar chart for net worth growth over time  
+- Detailed statement table with year-wise breakdown  
+
+**Tools Used:** Power BI
+
+---
 
 ## 📝 How to Use
 1. Clone this repository using the command:
