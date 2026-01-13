@@ -7,5 +7,9 @@
 ## 3. 𝐂𝐫𝐞𝐝𝐢𝐭 𝐂𝐚𝐫𝐝 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐑𝐞𝐩𝐨𝐫𝐭
 ![Credit Card Customer Dashboard](https://github.com/user-attachments/assets/4b067d7e-b874-4154-80e5-f577e7078405)
 ![Credit Card Transaction Dashboard](https://github.com/user-attachments/assets/015aad89-60bb-4284-b9e2-4fadffe37359)
-## 4. 𝐌𝐚𝐝𝐡𝐚𝐯 𝐄𝐜𝐨𝐦𝐦𝐞𝐫𝐜𝐞 𝐒𝐚𝐥𝐞𝐬 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝
-![Dashboard 1](https://github.com/user-attachments/assets/25e4206c-c162-4169-b4b1-f1d5b6ce2ccb)
+## 4. 𝐅𝐢𝐧𝐚𝐧𝐜𝐢𝐚𝐥 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝
+<img width="1325" height="740" alt="PF D1" src="https://github.com/user-attachments/assets/d62f65f1-6374-41d7-ab06-c431370adb49" />
+<img width="1324" height="739" alt="PF D2" src="https://github.com/user-attachments/assets/07805c89-f112-4cd0-94f1-c5a0c6990fc6" />
+
+## 5. 𝐌𝐚𝐝𝐡𝐚𝐯 𝐄𝐜𝐨𝐦𝐦𝐞𝐫𝐜𝐞 𝐒𝐚𝐥𝐞𝐬 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝
+<img width="1324" height="739" alt="Dashboard 1" src="https://github.com/user-attachments/assets/c39d1473-e333-4d67-944e-d4f3964e8700" />
